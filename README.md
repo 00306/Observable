@@ -1,8 +1,6 @@
 
 ### Demo Video
 
-<br>
-
 **Hubble Space Telescope**
 ---
 
